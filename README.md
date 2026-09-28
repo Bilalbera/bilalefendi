@@ -215,7 +215,11 @@ Yeni özellikler ve yeni içeriklerle uygulamanın zaman içerisinde geliştiril
 **Bilal Efendi Resmi Uygulaması**
 
 🎬 İzle.
+
 👤 Profilini oluştur.
+
 👥 Arkadaşlarını ekle.
+
 💬 Sohbet et.
+
 📺 Serileri takip et.
